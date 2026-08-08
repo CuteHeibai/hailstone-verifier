@@ -1,0 +1,6 @@
+__pycache__/
+build/
+*.spec
+gmpy2_probe.py
+gmpy2_probe.spec
+dist/gmpy2_probe.exe
